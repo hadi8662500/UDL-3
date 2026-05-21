@@ -1,13 +1,3 @@
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded files** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store large files on GitHub's infrastructure
-> - All download files are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/download-icon.gif" width="400" alt="wide-2" />
 </div>
@@ -33,11 +23,22 @@
 - 🌐 مرورگر وب اضافه شد به قسمت بروزرسانی مراجعه کنید و نحوه ی استفاده را مطلع شوید.
 - 📹 آموزش ویدیویی استفاده از این ابزار به انتهای همین مطلب اضافه شد.
 
+# 🤖 ربات پیام رسان بله
+در صورت اینکه به گیتهاب دسترسی نداشته باشید شما میتوانید از ربات پیام رسان بله برای دانلود فایل های خود استفاده کنید . توجه فرمایید که پروژه ورک فلو گیتهاب با ربات بله دو پروژه جدا از هم هستند در صورت قطعی گیتهاب، پیام رسان بله همچنان در دسترس شما هست . برای اتصال به ربات دانلودر فایل در بله روی لینک زیر بزنید و ربات را استارت کنید :‌
+
+https://ble.ir/UDLbot 
+
 ## 🔑 کد فعالسازی
 
-برای استفاده از این پروژه شما نیاز به یک کدفعالسازی برای فعالسازی دائمی نیاز دارید که میتوانید از طریق زیر آنرا خریداری کنید. کد فعالسازی بلافاصله بعد از خرید نمایش داده میشود و فقط یکبار کافی است در قسمت run workflow وارد کنید تا بصورت دائمی فعالسازی شود و بتوانید فایلهای خود را دانلود کنید. این پروژه فایل های حجیم بالای ۱۰ گیگابایت را نیز برای شما دریافت و بصورت زیپ های چند قسمتی تحویل میدهد و محدودیتی از این نظر وجود ندارد . لینک خرید کدفعالسازی  : 
+🔑 برای کد فعالساز دانلودر فایل از طریق لینک زیر اقدام کنید. کد خرید شده دائمی میباشد و به محض خرید برای شما نمایش داده میشود: 
 
-🔑👉  https://pay.avasam.ir/link/769584
+📁👉 https://pay.avasam.ir/link/769584
+
+🔑 برای کدفعالساز مرورگر وب باید از طریق لینک زیر اقدام کنید ( توجه کنید که کد فعالساز دانلودر فایل با مرورگر وب جدا از هم هستند )‌‌:
+
+🌐👉 https://pay.avasam.ir/link/769793
+
+کد فعالساز دائمی است و فقط در اولین استفاده اگر وارد شود دفعات بعدی نیاز به وارد کردن کد نیست و پروژه فعال خواهد شد.
 
 ---
 
@@ -116,3 +117,14 @@
 - آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
 - وب سایت : avasam.ir 
 
+
+
+> [!WARNING]
+> **Important Notice for Users**
+>
+> - This tool is intended to run **locally on your own machine** only
+> - **Do NOT commit downloaded files** or any media files to this repository or your fork
+> - **Do NOT use GitHub Actions** to download and store large files on GitHub's infrastructure
+> - All download files are blocked via `.gitignore`
+>
+> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
